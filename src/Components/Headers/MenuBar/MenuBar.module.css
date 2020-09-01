@@ -1,0 +1,12 @@
+.menuBar {
+  display: none;
+}
+@media screen and (max-width: 800px) {
+  .menuBar {
+    display: block;
+    position: absolute;
+    width: 40px;
+    right: 9%;
+    top: 19%;
+  }
+}

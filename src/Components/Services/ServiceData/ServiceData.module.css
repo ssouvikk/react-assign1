@@ -1,0 +1,66 @@
+.ServiceData {
+  width: 80%;
+  background-color: #f0f;
+}
+
+.Title {
+  display: inline-block;
+  width: 175px;
+  margin-left: 30px;
+  font-weight: 600;
+}
+
+.btnImg {
+  width: 30px;
+  height: 13px;
+  display: inline-block;
+  border-radius: 12px;
+  opacity: 0.8;
+}
+
+.Date {
+  display: inline-block;
+  color: gray;
+  padding: 0 23px;
+}
+
+.dataRow {
+  width: 92%;
+  display: block;
+  background-color: rgb(243, 243, 243);
+  margin-bottom: 10px;
+  border-radius: 20px;
+  opacity: 0.8;
+}
+
+.grayTick {
+  position: relative;
+  top: 10px;
+  left: 15px;
+}
+
+.Avatar {
+  position: relative;
+  top: 12px;
+}
+
+.dataRow:hover {
+  opacity: 1;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgb(168, 168, 168);
+}
+
+@media screen and (max-width: 800px) {
+  .dataRow {
+    width: 100%;
+  }
+
+  .Title {
+    width: 38%;
+    margin-left: 5%;
+  }
+
+  .Date {
+    padding: 0 7%;
+  }
+}

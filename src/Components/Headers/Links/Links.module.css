@@ -1,0 +1,15 @@
+.navlink {
+  display: inline-block;
+  margin-left: 9%;
+  padding: 0 2px 5px;
+  font-weight: 500;
+  opacity: 0.5;
+  font-size: 15px;
+  border-bottom: 3px solid #fff;
+}
+
+.navlink:hover {
+  border-bottom: 3px solid blue;
+  opacity: 1;
+  font-weight: 600;
+}

@@ -1,0 +1,10 @@
+.BigImg {
+  width: 60%;
+}
+
+@media screen and (max-width: 800px) {
+  .BigImg {
+    width: 100%;
+    margin: 25px 0;
+  }
+}

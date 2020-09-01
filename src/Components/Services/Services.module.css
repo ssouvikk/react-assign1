@@ -1,0 +1,12 @@
+.Container {
+  margin-top: -80px;
+  width: 40%;
+  display: inline-block;
+}
+
+@media screen and (max-width: 800px) {
+  .Container {
+    width: 100%;
+    margin: 25px 0;
+  }
+}

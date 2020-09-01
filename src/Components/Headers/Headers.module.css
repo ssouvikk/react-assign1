@@ -1,0 +1,47 @@
+.navbar {
+  padding: 0 75px;
+  margin-top: 18px;
+  position: relative;
+  height: 15vh;
+}
+
+.logo {
+  width: 130px;
+  position: absolute;
+  top: 12px;
+}
+
+.linksWrapper {
+  display: inline-block;
+  width: 50%;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+}
+
+.xtra {
+  /* margin: 20px 10px; */
+  background-color: pink;
+  color: blue;
+  position: absolute;
+  right: 6%;
+  top: 5%;
+}
+
+@media screen and (max-width: 800px) {
+  .xtra,
+  .linksWrapper {
+    display: none;
+  }
+
+  .logo {
+    width: 90px;
+    top: 25%;
+  }
+
+  .navbar {
+    padding: 0px 16px;
+    margin: 0;
+    height: 12vh;
+  }
+}

@@ -4,6 +4,6 @@ import bigImg from "./../../Assets/landing-section-image.png";
 
 export default class BigImg extends Component {
   render() {
-    return <img className={styles.BigImg} src={bigImg} />;
+    return <img alt="" className={styles.BigImg} src={bigImg} />;
   }
 }

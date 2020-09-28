@@ -24,12 +24,12 @@ export default class ServiceData extends Component {
         onMouseEnter={this.useBlueTick}
         onMouseLeave={this.useGray}
       >
-        <img
+        <img alt=""
           className={styles.grayTick}
           src={this.state.tick ? blueTick : grayTick}
         />
         <p className={styles.Title}>{title}</p>
-        <img src={avatar} className={styles.Avatar} />
+        <img alt="" src={avatar} className={styles.Avatar} />
         <p className={styles.Date}>{date}</p>
         <span style={{ backgroundColor: btnColor }} className={styles.btnImg} />
       </div>

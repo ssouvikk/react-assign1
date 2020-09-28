@@ -9,7 +9,7 @@ export default class Headers extends Component {
   render() {
     return (
       <nav className={styles.navbar}>
-        <img className={styles.logo} src={logo} />
+        <img className={styles.logo} alt="" src={logo} />
         <div className={styles.linksWrapper}>
           <Links label="Home" />
           <Links label="About" />

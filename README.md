@@ -1,12 +1,3 @@
-link for the app https://stunning-5eb58.web.app/
-https://stunning-5eb58.web.app/
-https://stunning-5eb58.web.app/
-https://stunning-5eb58.web.app/
-https://stunning-5eb58.web.app/
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -76,3 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 "# react-assign-1" 
+"# stunning-project-starter-code" 

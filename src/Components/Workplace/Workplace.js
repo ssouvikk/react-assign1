@@ -16,8 +16,8 @@ export default class Workplace extends Component {
           priorities, and get work done.
         </p>
         <Buttons label="New account" xtraClass={styles.xtra} />
-        <img src={UpArrow} className={styles.UpArrow} />
-        <img src={DownArrow} className={styles.DownArrow} />
+        <img src={UpArrow} alt="" className={styles.UpArrow} />
+        <img src={DownArrow} alt="" className={styles.DownArrow} />
       </div>
     );
   }

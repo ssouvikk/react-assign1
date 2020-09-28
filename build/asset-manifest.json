@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.741aeb9e.chunk.css",
+    "main.js": "/static/js/main.98f29153.chunk.js",
+    "main.js.map": "/static/js/main.98f29153.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.38643c3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.38643c3e.js.map",
+    "static/js/2.6eefcc83.chunk.js": "/static/js/2.6eefcc83.chunk.js",
+    "static/js/2.6eefcc83.chunk.js.map": "/static/js/2.6eefcc83.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f3d46dd3d3c764d0169b1dee5ce1050.js": "/precache-manifest.6f3d46dd3d3c764d0169b1dee5ce1050.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.741aeb9e.chunk.css.map": "/static/css/main.741aeb9e.chunk.css.map",
+    "static/js/2.6eefcc83.chunk.js.LICENSE.txt": "/static/js/2.6eefcc83.chunk.js.LICENSE.txt",
+    "static/media/Image 2.png": "/static/media/Image 2.adfc2ab4.png",
+    "static/media/arrow-up.png": "/static/media/arrow-up.881e4ec8.png",
+    "static/media/landing-section-image.png": "/static/media/landing-section-image.5044cc0b.png",
+    "static/media/stunning-logo.png": "/static/media/stunning-logo.d43e2fd4.png",
+    "static/media/tick-blue.png": "/static/media/tick-blue.330ba7b0.png",
+    "static/media/tick-gray.png": "/static/media/tick-gray.289635cc.png",
+    "static/media/user-blue.png": "/static/media/user-blue.6bf196c5.png",
+    "static/media/user-orange.png": "/static/media/user-orange.29fbde9d.png",
+    "static/media/user-pink.png": "/static/media/user-pink.9f9b7199.png",
+    "static/media/user-red.png": "/static/media/user-red.aeb86ae0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38643c3e.js",
+    "static/js/2.6eefcc83.chunk.js",
+    "static/css/main.741aeb9e.chunk.css",
+    "static/js/main.98f29153.chunk.js"
+  ]
+}

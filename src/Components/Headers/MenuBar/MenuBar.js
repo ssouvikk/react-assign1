@@ -4,6 +4,6 @@ import menuBar from "./../../../Assets/hamburger-icon.png";
 
 export default class MenuBar extends Component {
   render() {
-    return <img src={menuBar} className={styles.menuBar} />;
+    return <img alt="" src={menuBar} className={styles.menuBar} />;
   }
 }
